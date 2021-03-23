@@ -1,4 +1,4 @@
-package Day1_Data_Types;
+package _30_Days_of_Code.Day1_Data_Types;
 
 import java.util.*;
 

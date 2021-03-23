@@ -1,4 +1,4 @@
-package Day2_Operators;
+package _30_Days_of_Code.Day2_Operators;
 import java.util.*;
 
 public class Solution {
